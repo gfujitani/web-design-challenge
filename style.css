@@ -1,0 +1,56 @@
+ .navbar{
+     background-color: white;
+     padding-top: 0%;
+     padding-bottom: 0%;
+ }
+
+ .navbar-brand{
+    background-color:cadetblue;
+    font-weight:bold;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+body{
+    background-color: lightgray;
+}
+
+.nav-link{
+    color: lightgray;
+    font-size: small;
+}
+
+.diagrams{
+    background-color: white;
+    margin-top: 20px;
+    margin-right: 5px;
+    padding:20px;
+
+}
+
+h1{
+    color: cadetblue;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.info{
+    color: grey;
+    font-size: 10 px;    
+}   
+
+.data_info{
+    font-size: 10px;
+}
+
+table{
+    font-size: 10px;
+}
+
+h3{
+    color: cadetblue;
+    text-align: center;
+    font-size: 15px;
+}
